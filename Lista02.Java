@@ -1,9 +1,10 @@
-import java.util.Scanner;
-import java.util.Random;
 /*Nome: Lucas da Silva Lucio
  Disciplina: Desenvolvimento de aplicações
  TURMA: TCTG241CNTDEV
  */
+import java.util.Scanner;
+import java.util.Random;
+
 public class Lista02 {
 
     public static void main(String[] args) {
